@@ -1,4 +1,4 @@
-name: create growtopia accounts
+name: Account
 
 on:
   workflow_dispatch:
